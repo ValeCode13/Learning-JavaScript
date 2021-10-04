@@ -14,6 +14,6 @@ x *= 3;
 
 // Combination of Assignment Operator:
 x += 13;
-x -= 13:
+x -= 13;
 x *= 13;
 x /= 13;
